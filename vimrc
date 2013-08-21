@@ -11,7 +11,7 @@ filetype plugin indent on
 syntax enable
 set background=dark "light
 let g:solarized_termcolors=256
-colorscheme solarized 
+colorscheme solarized
 " colorscheme zenburn
 set t_Co=256
 
